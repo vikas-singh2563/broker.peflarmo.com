@@ -1,0 +1,6 @@
+{
+  "name": "PEFLARMO Broker Dashboard",
+  "description": "Premium property marketplace broker dashboard for PG, Flat, Room, and Hostel inventory, bookings, inquiries, site visits, and commission analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
